@@ -1,0 +1,30 @@
+{
+  "transactions": [
+    {
+      "hash": null,
+      "transactionType": "CALL",
+      "contractName": null,
+      "contractAddress": "0xd28d420840a1bc3948a196e7d3fda2da79f0bd99",
+      "function": "withdrawPendingFee()",
+      "arguments": [],
+      "transaction": {
+        "from": "0x4cf877aca8ed18372bb28791c0c69339c27f7d78",
+        "to": "0xd28d420840a1bc3948a196e7d3fda2da79f0bd99",
+        "gas": "0xce2e",
+        "value": "0x0",
+        "input": "0x917acc11",
+        "nonce": "0x57",
+        "chainId": "0x45a"
+      },
+      "additionalContracts": [],
+      "isFixedGasLimit": false
+    }
+  ],
+  "receipts": [],
+  "libraries": [],
+  "pending": [],
+  "returns": {},
+  "timestamp": 1754316694,
+  "chain": 1114,
+  "commit": "84e75bb"
+}
